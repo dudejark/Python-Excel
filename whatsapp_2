@@ -1,0 +1,3 @@
+import pywhatkit
+
+pywhatkit.sendwhatmsg_instantly("+919971322900", "Hello, this is an instant message!", wait_time=15, tab_close=True)
